@@ -25,7 +25,7 @@
         android:id="@+id/next"
         android:layout_width="209dp"
         android:layout_height="60dp"
-        android:background="#021f4f"
+        android:background="@drawable/roundedbutton"
         android:onClick="next"
         android:text="Next"
         app:layout_constraintBottom_toBottomOf="parent"
